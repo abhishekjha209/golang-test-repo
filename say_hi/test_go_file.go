@@ -1,4 +1,4 @@
-package test_go_file
+package say_hi
 
 func SayHi() string {
 	return string("hello from GitHub")
